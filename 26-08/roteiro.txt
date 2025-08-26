@@ -1,0 +1,48 @@
+Apresentção:
+    Breno Silva
+    19 anos
+    Cursando Bacharelado em Sistemas da Informação
+    Corinthiano
+
+Abertura:
+    Hoje vamos falar sobre tecnologia, mas não apenas celular e computador
+    Pergunta: Quem usou tecnologia desde que acordou? (Esperado: Despertador, celular, micro-ondas), (Flar sobre: Fogo e coisas que eles não esperam que seja tecnologia)
+
+Oque é tecnologia?
+    É tudo aquilo que o ser humano inventa para facilitar a vida (Fogo, roda, oculos, bicicleta)
+    Mostrar tecnologias que evoluiram, telefone antigo e novo, computador antigo e novo
+
+Como os jogos e os Apps são criados?
+    Pergunta: Alguem sabe me dizer como são criados os jogos?
+    Pergunta: Alguem sabe oque é programação?
+    Pergunta: Me diga o nome de uma linguagem de programação.
+
+    Programação é uma serie de instruções para o computador, ele segue os passos que nós damos e realiza uma determinada tarefa
+    A linguagem de programação não é para o computador, é para a gente. Ela nos aproxima da linguagem do computador, para facilitar a "conversa" entre o computador e o programador.
+    
+    Mostrar um programinha que vou criar so para eles entenderem oque vou falar.
+
+Robôs e IA.
+    Pergunta: Quem aqui ja falou com a Alexa, o GPT ou o Google ASsistent?
+    Pergunta: E quem ja usou a IA para fazer um trabalho da escola?
+
+    A ia é um programa criado para reconhecer padrões e ajudar a gente, como quando o instagram ou o tiktok entende o tipo de videos que nós gostamos e começa a nos sugerir videos assim o tempo todo.
+    Mostrar como a IA é usada em hospitais, robos, fabricas e etc.
+
+Segurança e responsabilidade na internet:
+    Não devemos usar as mesmas senhas para tudo, senhas com @!# e numeros são mais fortes
+    Não compartilhar senhas
+    
+    Fake news, devemos acreditar em tudo que vemos?
+        Existem programas que criam pessoas falando coisas que não aconteceram
+        programas que imitam vozes.
+
+Perguntas:
+    Fazer perguntas e dar chocolates para quem me responder de forma correta (falar isso no começo para incentivar a atenção na palestra)
+
+    O que significa programar um computador?
+    O que a Inteligência Artificial faz quando usamos, por exemplo, o YouTube ou a Netflix?
+    Onde podemos encontrar robôs na vida real ajudando pessoas?
+    Como chamamos uma notícia falsa que circula na internet?
+    A tecnologia é só celular e computador?
+    Como deixar uma senha mais forte?
