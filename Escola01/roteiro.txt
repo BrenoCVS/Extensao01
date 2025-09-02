@@ -1,0 +1,86 @@
+Slide 1 – Apresentação
+
+Bom dia, meu nome é Breno, tenho 19 anos, estou me graduando no curso de bacharelado de sistemas da informação
+
+Transição (Slide 1 para 2):
+“Eu escolhi falar de tecnologia porque ela está em todo lugar na nossa vida. Mas antes, precisamos entender… 
+o que realmente é tecnologia?”
+
+Slide 2 – O que é tecnologia
+
+Tecnologia é tudo aquilo que o ser humano cria para facilitar a vida.
+Por exemplo: a roda, a lâmpada, o avião, a geladeira, o micro-ondas.
+Ou seja, desde a pré-história o ser humano cria tecnologia. Ela evolui junto com a gente.”
+
+Transição (slide 2 a 3):
+“E se a tecnologia está em tudo que facilita a nossa vida, vamos olhar mais de perto para como ela aparece
+ no nosso dia a dia.”
+
+Slide 3 – Tecnologia no dia a dia
+
+No nosso cotidiano, a tecnologia está em várias áreas:
+
+Na comunicação, com celular e internet;
+
+Em casa, com eletrodomésticos;
+
+Na escola, com projetor, computador;
+
+E no transporte, como bicicletas, ônibus e carros.
+
+E tem uma parte da tecnologia, que é muito popular: Os jogos.
+
+Transição (slide 3 a 4):
+E como será que esses jogos são criados? (Espero que respondam) A resposta está em uma área muito importante da 
+tecnologia: a programação.
+
+Slide 4 – Jogos e Programação
+
+Programação é basicamente ensinar o computador a fazer alguma coisa, dando instruções para ele.
+Essas instruções são escritas em linguagens de programação, como Python, Java, C# ou Kotlin.
+
+Nos jogos, por exemplo, é a programação que faz o personagem pular, correr, ganhar pontos.
+
+Transição (slide 4 a 5):
+Se conseguimos ensinar o computador a criar um jogo, imagina o que dá para fazer com máquinas no mundo real.
+ É aqui que entram os robôs e a inteligência artificial.
+
+Slide 5 – Robôs e Inteligência Artificial
+
+A Inteligência Artificial, ou IA, é um tipo de programa que aprende com os dados e reconhece padrões.
+Um exemplo simples: quando o TikTok ou o Instagram percebem quais vídeos você gosta e começam a recomendar 
+mais do mesmo.
+
+Os robôs também usam tecnologia e IA em muitos lugares:
+
+Em fábricas, montando carros;
+
+Em hospitais, ajudando em cirurgias;
+
+Em carros autônomos, que dirigem sozinhos;
+
+E até dentro da nossa casa, como o robô aspirador.”
+
+Transição (slide 5 a 6):
+Mas reparem: se a tecnologia consegue aprender sobre a gente, ela também pode trazer riscos. 
+Por isso precisamos falar de um ponto muito importante: a segurança na internet.
+
+Slide 6 – Segurança na Internet
+
+Na internet, a gente precisa se proteger.
+E o exemplo mais basico de proteção na internet são as senhas:
+
+Nunca devemos compartilhar,
+
+Evitar repetir a mesma senha em todos os lugares,
+
+E criar senhas fortes, com letras, números e símbolos.
+
+Outro cuidado é com as Fake News. Nem tudo que aparece na internet é verdade. 
+Existem programas que criam notícias falsas para enganar pessoas, e por isso é 
+importante desconfiar e verificar a fonte antes de acreditar em qualquer coisa.
+
+Transição:
+Ou seja: a tecnologia pode facilitar nossa vida e até nos divertir,
+mas também exige responsabilidade. Cabe a nós usarmos de forma correta.
+
