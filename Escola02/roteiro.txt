@@ -1,0 +1,113 @@
+Slide 1 – Apresentação 
+
+Bom dia, meu nome é Breno Silva, tenho 19 anos, estudo Sistemas da Informação. 
+Hoje vamos falar sobre programação!
+
+Transição para o próximo slide:
+
+Para começar precisamos entender, oque realmente é programar?
+
+Slide 2 – O que é Programar? 
+
+Programar é dar instruções para o computador.
+
+Ele não entende português, então usamos linguagens de programação.
+
+Analogia: É como seguir uma receita de bolo, passo a passo, até chegar ao resultado final.
+
+Transição:
+
+E onde a programação aparece no nosso dia a dia?
+
+Slide 3 – Onde a Programação Está?
+
+exemplos: celulares, jogos, sites, robôs, carros inteligentes, até na geladeira.
+
+Tudo isso funciona porque alguém programou essas máquinas.
+
+Transição:
+Agora que sabemos onde a programação está, vamos entender as linguagens que usamos para programar.
+
+Slide 4 – Linguagens de Programação 
+
+
+Apresentar Python, Java, C++, JavaScript.
+
+Mostrar exemplo simples de Python (Hello World).
+
+Transição:
+
+Mas nem todas as linguagens são iguais. Algumas são próximas da máquina, outras mais próximas de nós.
+ Vamos ver a diferença.
+
+Slide 5 – Alto Nível x Baixo Nível
+
+
+Linguagens de baixo nível → próximas da máquina (difíceis para humanos).
+
+Linguagens de alto nível → próximas da forma como pensamos (fáceis para humanos).
+
+
+Transição:
+
+Vamos ver um exemplo prático de cada tipo com o clássico Hello World.
+
+Slide 6 – Exemplo Assembly (baixo nível) 
+
+
+Mostrar código Assembly.
+Reparem como precisamos de muitos comandos só para mostrar uma frase.
+
+Transição:
+
+Agora comparemos com uma linguagem de alto nível, que faz a mesma coisa muito mais simples.
+
+
+Slide 7 – Exemplo Python (alto nível) 
+
+Fala sugerida:
+
+Mostrar código Python.
+
+Viram? Uma linha é suficiente para o mesmo resultado.
+
+
+Transição:
+
+Mas para programar, não basta saber a linguagem. É preciso pensar de forma lógica.
+
+Slide 8 – Pensamento Lógico (4 min)
+
+Fala sugerida:
+
+Programar é resolver problemas passo a passo.
+
+Se não tivermos lógica, o programa não funciona.
+
+Exemplo: Fazer um robo sair de uma sala. de x passos, levante o braço, feche a mao na maãneta
+gire em sentido anti-horario, solte a maçaneta, abaixe o braço e saia da sala.
+
+
+Transição:
+
+A programção esta moldando o futuro
+
+Slide 10 – Programação e o Futuro 
+
+Carros autônomos, Inteligência Artificial, apps de saúde, bancos digitais.
+
+Profissões do futuro vão exigir programação.
+Programar é criar e também entender o mundo digital.
+
+Transição:
+
+Mas com grandes poderes vêm grandes responsabilidades.
+
+Slide 11 – Segurança e Responsabilidade 
+
+Fala sugerida:
+
+Podemos criar coisas incríveis, mas também existem riscos: vírus, hackers.
+
+Por isso, é importante usar a programação de forma responsável.
+
